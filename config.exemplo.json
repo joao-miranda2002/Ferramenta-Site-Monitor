@@ -1,0 +1,18 @@
+{
+    "settings": {
+        "timeout": 10,
+        "Alerta_SSL": 30,
+        "servidor_dns": [
+            "8.8.8.8",
+            "1.1.1.1"
+        ]
+    },
+
+    "clientes": [
+        {
+            "nome": "NOME EXEMPLO",
+            "dominio": "nomedoseudominio.com.br",
+            "url": "https://nomedoseudominio.com.br"
+        }
+    ]
+}
